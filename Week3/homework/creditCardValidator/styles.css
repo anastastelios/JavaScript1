@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, h2 {
+    text-align: center;
+    margin: 12px;
+    padding: 12px;
+}
+
+h1 {
+    background-color: #FF7400;
+    color: #112F9A;
+}
+
+input {
+    text-align: center;
+    margin: 10px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.validity__check {
+    background-color: #112F9A;
+    text-align: center;
+    font-size: 45px;
+    margin: 12px;
+    padding: 20px;
+    color: rgb(143, 125, 110);
+}
